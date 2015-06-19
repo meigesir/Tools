@@ -4,6 +4,11 @@ Tools I use most frequently
 ## Xcode Plug-ins
 `Xcode → Plug-ins` I use for development.
 
+Xcode Plug-ins Directory:
+```bash
+~/Library/Application Support/Developer/Shared/Xcode/Plug-ins
+```
+
 #### Invalid bug fixes:
 You need to execute command in terminal:
 ```shell
