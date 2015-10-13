@@ -26,9 +26,22 @@ defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-{your_x
 
 ## OSS 
 `OSS` I think good
+
+### Crypto
+`Swift`  
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)
+
+### JSON
+`Swift`
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+
 ### Image
  `Swift`
 * [Kingfisher](https://github.com/onevcat/Kingfisher)
+* [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift)
 
+### Log
+`Swift`
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
 
