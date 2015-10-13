@@ -22,3 +22,13 @@ If you happened to skip the bundle loading, you can use this to reset the prompt
 
 ```bash
 defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-{your_xcode_version}
+```
+
+## OSS 
+`OSS` I think good
+### Image
+ `Swift`
+* [Kingfisher](https://github.com/onevcat/Kingfisher)
+* [HanekeSwift](https://github.com/Haneke/HanekeSwift)
+
+
