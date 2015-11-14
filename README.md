@@ -45,3 +45,7 @@ defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-{your_x
 `Swift`
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
 
+## SUBSCRIBE
+`site` I think good
+* [iOS Dev Weekly](https://iosdevweekly.com/)
+* [Swift Sandbox](http://swiftsandbox.io/)
