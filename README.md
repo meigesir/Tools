@@ -24,7 +24,15 @@ If you happened to skip the bundle loading, you can use this to reset the prompt
 defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-{your_xcode_version}
 ```
 
-## OSS 
+## Xcode CodeSnippets
+`Xcode → CodeSnippets` I use for development.
+
+Xcode CodeSnippets Directory:
+```bash
+~/Library/Developer/Xcode/UserData/CodeSnippets
+```
+
+## OSS
 `OSS` I think good
 
 ### Crypto

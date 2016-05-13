@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>kghttp</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>[CKHttpCommunicate createRequest:&lt;# HTTP_COMMAND #&gt; WithParam:&lt;# params #&gt; success:^(id result) {
+    NSLog(@"result: %@", result);
+        if (result != nil &amp;&amp; [result isKindOfClass:[NSDictionary class]]) {
+            int code = ((NSNumber *)[result objectForKey:@"code"]).intValue;
+            if (code == 100) {
+                &lt;# code here... #&gt;
+            }
+        }
+        
+        
+    } failure:^(NSError *erro) {
+        NSLog(@"error :%@", erro);
+    }];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8B7A141E-3879-4B0A-A1AF-0EE35C8D1E6B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>kge http request</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
