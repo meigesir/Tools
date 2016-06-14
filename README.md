@@ -57,3 +57,7 @@ Xcode CodeSnippets Directory:
 `site` I think good
 * [iOS Dev Weekly](https://iosdevweekly.com/)
 * [Swift Sandbox](http://swiftsandbox.io/)
+
+## License
+
+Tools is released under the MIT license. See LICENSE for details.
